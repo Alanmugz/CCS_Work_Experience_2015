@@ -1,0 +1,11 @@
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\obj\Debug\TestSuite.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\TestSuite.XML
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\TestSuite.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\TestSuite.pdb
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\FSharp.Core.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\nunit.framework.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\Unquote.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\FSharp.Core.xml
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\bin\Debug\Unquote.xml
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\obj\Debug\TestSuite.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestSuite\obj\Debug\TestSuite.pdb

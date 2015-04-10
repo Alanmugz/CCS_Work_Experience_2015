@@ -1,0 +1,196 @@
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Downloads\WebSharper-Api-master\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\WebSharper-Api-master\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\Web Api\WebSharper\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\Web Api\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll.config
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\WebAppApi.XML
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\FsCsMvcWebAppApi.pdb
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Mono.Security.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Optimization.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Providers.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\Npgsql.xml
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Helpers.xml
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\System.Web.Mvc.xml
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\de\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\es\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.dll
+C:\Users\amulligan\Desktop\API\API F#\FsCsMvc\FsCsMvc\FsCsMvcWebAppApi\obj\Debug\FsCsMvcWebAppApi.pdb

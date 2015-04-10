@@ -1,0 +1,12 @@
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\TestRunner.XML
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\TestRunner.exe
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\TestRunner.pdb
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\FSharp.Core.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\nunit.core.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\nunit.core.interfaces.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\nunit.framework.dll
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\bin\Debug\FSharp.Core.xml
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\obj\Debug\TestRunner.fsprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\obj\Debug\TestRunner.exe
+C:\Users\amulligan\Desktop\UnQuoteExample\TestRunner\obj\Debug\TestRunner.pdb
